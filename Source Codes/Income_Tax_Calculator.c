@@ -14,6 +14,8 @@ int main()
         printf("Nice guy 😆 \nYou don't need to pay any tax 😜\n");
     }
     else if (income >= 2.5 && income <= 5)
+    /*This methood is being used for making the tax fair to all, 
+    As it happens  in real world. */
     {
         float tax = (income-2.5)*0.05;
         printf("You have to pay %.2f lakh as tax 😌\n", tax);
