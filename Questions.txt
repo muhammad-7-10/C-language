@@ -19,4 +19,4 @@ lowercase or not.
 
 5. Write a program to find greatest of four numbers 
 
-6.Write a program to print n natural numbers using do-while & for  loop. Take n from user.
+6.Write a program to print n natural numbers using do-while & for loop. Take n from user.
