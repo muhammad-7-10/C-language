@@ -17,4 +17,6 @@ Take year as an input from the user.
 4. Write a program to determine whether a character entered by the user is
 lowercase or not.
 
-5. Write a program to find greatest of four numbers e
+5. Write a program to find greatest of four numbers 
+
+6.Write a program to print n natural numbers using do-while & for  loop. Take n from user.
