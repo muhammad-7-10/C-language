@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello World!\nGimme a number to print upto\n");
+    printf("Hello Boss 🫡 \nGimme a number to print upto\n");
     int n;
     scanf("%d", &n);
 

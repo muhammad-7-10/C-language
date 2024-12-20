@@ -20,3 +20,8 @@ lowercase or not.
 5. Write a program to find greatest of four numbers 
 
 6.Write a program to print n natural numbers using do-while & for loop. Take n from user.
+
+7.White a program to print a multiplication table for the desired number of user. Try to make the program interactive.
+
+8.Write a program to sum first ten natural numbers using while loop.
+9.Write a program to find the value of X in ax^2+bx+c=0 .
