@@ -1,3 +1,9 @@
+/*Sometimes we get a word which is very large. Let's try a new thing. If a word is higher than 10 character, 
+let's say the first & last character & display remaining in Integer
+Example:
+Input: Hello Watermelon
+Output: Hello W10*/
+
 #include <stdio.h>
 #include <string.h>
 
