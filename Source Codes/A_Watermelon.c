@@ -9,7 +9,6 @@ Sample output: YES*/
 
 int main()
 {
-    u
     int w;
     scanf("%d", &w);
     if (w > 100 || w < 1)
@@ -19,12 +18,13 @@ int main()
     else if (w >= 1 || w <= 100)
     {
         while (2 < w <= 100)
-        {   if (w==2)
         {
-            printf("NO \n");
-            break;
-        }
-        
+            if (w == 2)
+            {
+                printf("NO \n");
+                break;
+            }
+
             if (w % 2 == 0)
             {
                 printf("YES \n");
